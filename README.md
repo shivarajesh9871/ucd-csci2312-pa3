@@ -41,7 +41,7 @@ The assignment is due on **Wed, Mar 30, at 23:59 Mountain time**. No late work. 
 
 Free Github repositories are public so you can look at each other's code. Please, don't do that. You can discuss any programming topics and the assignments in general but sharing of solutions diminishes the individual learning experience of many people. Assignments might be randomly checked for plagiarism and a plagiarism claim may be raised against you.
 
-### Use of libraries
+### libraries
 
 For this assignment, no external libraries should be used, except for the Standard Library minus the Standard Template Library (STL). You should reuse your own implementation of the linked list from PA2. You are encouraged to use STL classes in your implementation of `KMeans::pickCentroids` and `Kmeans::run`. We will use the STL more extensively in PA4-PA5.
 
